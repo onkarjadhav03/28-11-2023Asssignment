@@ -1,0 +1,7 @@
+D:\mphasis\Assignments\Day-17\Day17Assignment22\Day17Assignment22\bin\Debug\Day17Assignment22.exe.config
+D:\mphasis\Assignments\Day-17\Day17Assignment22\Day17Assignment22\bin\Debug\Day17Assignment22.exe
+D:\mphasis\Assignments\Day-17\Day17Assignment22\Day17Assignment22\bin\Debug\Day17Assignment22.pdb
+D:\mphasis\Assignments\Day-17\Day17Assignment22\Day17Assignment22\obj\Debug\Day17Assignment22.csproj.AssemblyReference.cache
+D:\mphasis\Assignments\Day-17\Day17Assignment22\Day17Assignment22\obj\Debug\Day17Assignment22.csproj.CoreCompileInputs.cache
+D:\mphasis\Assignments\Day-17\Day17Assignment22\Day17Assignment22\obj\Debug\Day17Assignment22.exe
+D:\mphasis\Assignments\Day-17\Day17Assignment22\Day17Assignment22\obj\Debug\Day17Assignment22.pdb
